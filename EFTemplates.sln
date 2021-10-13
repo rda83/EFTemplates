@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFTemplates.RowVersionExample", "EFTemplates.RowVersionExample\EFTemplates.RowVersionExample.csproj", "{1E4404BF-3C87-45F4-AE62-036BCA534051}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFTemplates.EntityRelationshipsExample", "EFTemplates.EntityRelationshipsExample\EFTemplates.EntityRelationshipsExample.csproj", "{953F47C2-7196-4C63-9DD5-F9828030929C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFTemplates.EntityRelationshipsExample", "EFTemplates.EntityRelationshipsExample\EFTemplates.EntityRelationshipsExample.csproj", "{953F47C2-7196-4C63-9DD5-F9828030929C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFTemplates.Logging", "EFTemplates.Logging\EFTemplates.Logging.csproj", "{DDA14E2D-91D6-4717-8BA0-0D19EC106125}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{953F47C2-7196-4C63-9DD5-F9828030929C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{953F47C2-7196-4C63-9DD5-F9828030929C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{953F47C2-7196-4C63-9DD5-F9828030929C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA14E2D-91D6-4717-8BA0-0D19EC106125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA14E2D-91D6-4717-8BA0-0D19EC106125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA14E2D-91D6-4717-8BA0-0D19EC106125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA14E2D-91D6-4717-8BA0-0D19EC106125}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
